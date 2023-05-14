@@ -1,0 +1,17 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background: white url("images/background.jpg");
+    background-repeat: repeat-y;
+    background-size: cover, auto;
+    text-align: center;
+}
+
+li a {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
